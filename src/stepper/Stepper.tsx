@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { FormikStepProps } from "../fromikForm/types";
 import { Step } from "./Step";
-import "./styles.css";
+// import "./styles.css";
 import { StepperProps } from "./types";
 
 export const Stepper = React.memo(
